@@ -16,7 +16,7 @@
   width: 100vw;
   background-color: rgb(1, 1, 27);
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6e8wfrvZdR3_zc2NgAdR2CC1qBIKeGPE6E81XdfU5W3mWGVzbRP_9Hl82VTS_xcAnC0&usqp=CAU");
+  url(/images/Background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -245,8 +245,7 @@ a {
 .modal-container-page2 {
   height: 100vh;
   width: 100vw;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("https://images.news18.com/ibnlive/uploads/2017/08/amitabhkbc.jpg?im=FitAndFill,width=1200,height=900");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/Background.jpg);
   background-position: center;
   padding: 0;
   display: flex;
@@ -255,8 +254,7 @@ a {
 .game-area {
   flex-basis: 86%;
   /* border: 2px solid yellow; */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("https://images.news18.com/ibnlive/uploads/2017/08/amitabhkbc.jpg?im=FitAndFill,width=1200,height=900");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/Background.jpg);
   background-position: center;
   display: flex;
   flex-direction: column;
